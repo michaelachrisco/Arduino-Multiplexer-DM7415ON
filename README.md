@@ -5,7 +5,7 @@
 
 ## Requirements
 1. Arduino (Uno was used but any model will do)
-2. DM741ON multiplexer chip
+2. DM741ON multiplexer chip. Spec here: https://www.alldatasheet.com/datasheet-pdf/pdf/50897/FAIRCHILD/DM74150N.html 
 3. Wires, buttons and/or switches (you can get the inputs from the High/Low connections).
 
 ## Code
